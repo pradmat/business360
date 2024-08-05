@@ -1,4 +1,4 @@
-# Atliq Hardware Power BI Project
+# Atliq Hardware Power BI Project ("https://app.powerbi.com/view?r=eyJrIjoiNGI4N2JhNDQtZDY3Ny00ZTBhLWJiMWQtMGRjMGJlMWZhZmY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" )
 
 This repository contains the Power BI project developed for Atliq Hardware, focusing on creating dashboards for finance, sales, marketing, and supply chain analytics.
 
