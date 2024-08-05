@@ -6,7 +6,6 @@ This repository contains the Power BI project developed for Atliq Hardware, focu
 
 Atliq Hardware has experienced rapid growth in recent years and decided to implement data analytics using Power BI to surpass competitors and facilitate data-driven decision-making. This project aims to provide answers to stakeholders' questions across various aspects, including finance, sales, marketing, and supply chain management.
 
-I worked on this project by following the [Codebasics Power BI Course](#). You can find the course [here](#). The live report can be accessed [here](#).
 
 ## Tech Stack
 
