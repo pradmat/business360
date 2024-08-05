@@ -111,7 +111,7 @@ A well-structured data model is essential for report performance. The project ad
 
 Dashboards were designed based on received mock-ups, with measures and visuals developed as needed. Key views include:
 
-- **Home View:** Navigation buttons for quick access to specific reports.("C:\Users\prade\Pictures\Screenshots\Screenshot 2024-08-03 222706.png)
+- **Home View:** Navigation buttons for quick access to specific reports.
 - **Info, Finance, Sales, Marketing, Supply Chain, Executive Views:** Detailed insights tailored to each area.
 - **Products & Support:** Additional information and support resources.
 
